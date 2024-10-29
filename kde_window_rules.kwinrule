@@ -1,0 +1,76 @@
+[Settings for Vivaldi-stable]
+Description=Settings for Vivaldi-stable
+activity=a8360ec4-bb07-4c42-9766-687a12a7fc77
+activityrule=2
+wmclass=Vivaldi-stable
+wmclassmatch=1
+
+[Settings for Yad]
+Description=Settings for Yad
+activity=ea4383cf-e534-4683-8756-6edbc36605c7
+activityrule=2
+wmclass=Yad
+wmclassmatch=1
+
+[Settings for cs2]
+Description=Settings for cs2
+activity=a82c3fae-1a00-4e4f-8413-70c21bded6d1
+activityrule=2
+wmclass=cs2
+wmclassmatch=1
+
+[Settings for firefox]
+Description=Settings for firefox
+activity=959c843a-4511-46e3-8cee-62c7e340d26a
+activityrule=2
+wmclass=firefox
+wmclassmatch=1
+
+[Settings for kitty]
+Description=Settings for kitty
+activity=d7055db0-b2d8-4c97-b3ce-e8d5b6256f7b
+activityrule=2
+wmclass=kitty
+wmclassmatch=1
+
+[Settings for nekobox]
+Description=Settings for nekobox
+activity=5cb7b22c-037c-4d65-86aa-42d2df5326cd
+activityrule=2
+wmclass=nekobox
+wmclassmatch=1
+
+[Settings for obsidian]
+Description=Settings for obsidian
+activity=80aa710f-a12a-4471-b34c-3bb7ecdeaa50
+activityrule=2
+wmclass=obsidian
+wmclassmatch=1
+
+[Settings for org.telegram.desktop]
+Description=Settings for org.telegram.desktop
+activity=ea4383cf-e534-4683-8756-6edbc36605c7
+activityrule=2
+wmclass=org.telegram.desktop
+wmclassmatch=1
+
+[Settings for steam_app_]
+Description=Settings for steam_app_
+activity=a82c3fae-1a00-4e4f-8413-70c21bded6d1
+activityrule=2
+wmclass=steam_app_
+wmclassmatch=2
+
+[Steam on Games]
+Description=Steam on Games
+activity=a82c3fae-1a00-4e4f-8413-70c21bded6d1
+activityrule=2
+wmclass=steam
+wmclassmatch=1
+
+[Sytem on All]
+Description=Sytem on All
+activity=00000000-0000-0000-0000-000000000000
+activityrule=2
+wmclass=systemsettings
+wmclassmatch=1
